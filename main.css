@@ -1,0 +1,24 @@
+html, body {
+	margin: 0;
+	padding: 0;
+}
+
+.container {
+	width: 940px;
+	margin: 0 auto;
+}
+
+.header {
+	background: #333;
+}
+
+.nav {
+	margin: 0;
+	padding: 20px 0;
+}
+
+.nav li {
+	display: inline-block;
+	color: #fff;
+	list-style: none;
+}
